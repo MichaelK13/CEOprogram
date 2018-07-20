@@ -22,5 +22,5 @@ def mean(a, b, c):
 
 
 if __name__ == "__main__":
-    print(age calculator(2018,2003))
+    print(age_calculator(2018,2003))
     print(4, 7, 8)
